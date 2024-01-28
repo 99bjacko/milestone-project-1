@@ -71,3 +71,24 @@ footer {
     padding: 5%;
     padding-top: 15%
 }
+
+.footer-text {
+    
+}
+
+@media (min-width: 992px) {
+
+    .callout-container {
+        height: 75vh;
+    }
+
+    .navbar-brand {
+        font-size: 150%
+    }
+
+    .navbar .navbar-nav a {
+        font-size: 125%;
+    }
+    
+    
+}
