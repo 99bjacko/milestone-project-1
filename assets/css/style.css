@@ -14,12 +14,6 @@ body {
     background-size: cover;
 }
 
-.description-container {
-}
-
-.history-container {
-}
-
 .navbar {
     margin-bottom: 0;
     border: 0;
@@ -72,9 +66,6 @@ footer {
     padding-top: 15%
 }
 
-.footer-text {
-    
-}
 
 @media (min-width: 992px) {
 
