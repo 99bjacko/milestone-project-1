@@ -40,6 +40,7 @@ body {
 .page-text {
     padding-bottom: 75px;
 }
+
 .block-divider {
     width: 100px;
     height: 5px;
@@ -59,11 +60,24 @@ footer {
     display: inline;
 }
 
-.social-media-links i{
+.social-media-links i {
     font-size: 175%;
     margin: 1%;
     padding: 5%;
     padding-top: 15%
+}
+
+.discography-heading {
+    padding-top: 75px;
+    padding-bottom: 125px;
+}
+
+.discography-content {
+    text-align: center;
+}
+
+.discography-content h2 {
+    padding-top: 75px;
 }
 
 
@@ -80,6 +94,18 @@ footer {
     .navbar .navbar-nav a {
         font-size: 125%;
     }
-    
-    
+
+    .discography-content {
+        text-align: left;
+    }
+
+    .discography-content h2 {
+        padding-left: 75px;
+        padding-top: 0px;
+    }
+
+    .discography-content p {
+        padding-left: 75px;
+    }
+
 }
