@@ -1,5 +1,7 @@
 body {
     font-family: 'IBM Plex Sans', sans-serif;
+    background-color: #000;
+    color: #fff;
 }
 
 .callout-container {
@@ -12,13 +14,60 @@ body {
     background-size: cover;
 }
 
-.description-container {}
+.description-container {
+}
 
-.history-container {}
+.history-container {
+}
 
+.navbar {
+    margin-bottom: 0;
+    border: 0;
+    width: 100%;
+}
+
+.navbar .navbar-toggler {
+    border: 0;
+}
+
+.navbar-brand {
+    font-weight: 700;
+}
+
+.navbar .navbar-nav a {
+    font-weight: 500;
+}
+
+.page-header {
+    padding-top: 75px;
+    padding-bottom: 25px;
+}
+
+.page-text {
+    padding-bottom: 75px;
+}
 .block-divider {
     width: 100px;
     height: 5px;
     border: 0;
-    background-color: #000;
+    background-color: #fff;
+}
+
+footer {
+    height: 150px;
+}
+
+.social-media-links {
+    text-align: center;
+}
+
+.social-media-links li {
+    display: inline;
+}
+
+.social-media-links i{
+    font-size: 175%;
+    margin: 1%;
+    padding: 5%;
+    padding-top: 15%
 }
