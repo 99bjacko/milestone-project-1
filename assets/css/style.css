@@ -2,8 +2,23 @@ body {
     font-family: 'IBM Plex Sans', sans-serif;
 }
 
-.callout-container {}
+.callout-container {
+    height: 50vh;
+
+    background: url("../images/bg.jpeg") no-repeat bottom center scroll;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
 
 .description-container {}
 
 .history-container {}
+
+.block-divider {
+    width: 100px;
+    height: 5px;
+    border: 0;
+    background-color: #000;
+}
