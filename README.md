@@ -1,18 +1,15 @@
 # Milestone Project 1 - Muse Fanpage
 
-insert multiple device pic here
+![Responsive Website Mockup](./docs/readme/responsive_image.png)
 
 ## Live Site
 
-live site url
+The live site for this project can be found at this link: 
+<https://99bjacko.github.io/milestone-project-1/discography.html>
 
-## Github Repository
+## GitHub Repository
 
-github project repo url
-
-## Table of Contents
-
-list of readme sections
+The GitHub Repository for this project can be found at this link: https://github.com/99bjacko/milestone-project-1
 
 ## Objective
 
@@ -51,11 +48,17 @@ Beautifully displayed images and simple but eye-catching design are key for this
 
 #### Wireframes
 
-Wireframes for each page here
+For initially designing the project, I utilised Balsamiq to produce wireframes. This step really allowed me to plan how I wanted things to look ahead of time, meaning I could focus on making my website look like the designs, instead of trying to make design decisions and program simultaneously.
+
+- [Home Page Wireframe](./docs/wireframes/home_page_wireframe.png)
+- [Discography Page Wireframe](./docs/wireframes/discography_page_wireframe.png)
+- [Gigs Page Wireframe](./docs/wireframes/gigs_page_wireframe.png)
+- [Gallery Page Wireframe](./docs/wireframes/gallery_page_wireframe.png)
+- [Contact Page Wireframe](./docs/wireframes/contact_page_wireframe.png)
 
 #### Colour Scheme
 
-Colour scheme information here
+The colour scheme for this project was a simple decision to make. The Muse colour scheme centres around black with white accents, as seen in their logo. I believe that darker themes often look a lot cleaner too, so it made sense to stick with the theme of the band.
 
 #### Typography
 
@@ -85,7 +88,15 @@ Any current and resolved bugs here
 
 ## Deployment
 
-Deployment details here
+The site was deployed to GitHub pages. The steps to deploy are as follows:
+
+- In the GitHub repository, navigate to the *Settings* tab
+- Select the pages link from the menu on the left hand side
+- Under the Build and deployment heading, make sure the source selected is *Deploy from a branch*.
+- In the branch section, select the *Main* branch from the drop-down menu and click Save.
+- A message will be displayed to indicate a successful deployment to GitHub pages and a live link will appear.
+
+You can find the live site at this link: <https://99bjacko.github.io/milestone-project-1/>
 
 ## Credits
 
