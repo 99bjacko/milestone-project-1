@@ -1,5 +1,3 @@
 {
-    "[css]": {
-        "editor.defaultFormatter": "vscode.css-language-features"
-    }
+    "editor.formatOnSave": false
 }
