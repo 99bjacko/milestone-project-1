@@ -4,12 +4,12 @@
 
 ## Live Site
 
-The live site for this project can be found at this link: 
+The live site for this project can be found at this link:
 <https://99bjacko.github.io/milestone-project-1/discography.html>
 
 ## GitHub Repository
 
-The GitHub Repository for this project can be found at this link: https://github.com/99bjacko/milestone-project-1
+The GitHub Repository for this project can be found at this link: <https://github.com/99bjacko/milestone-project-1>
 
 ## Objective
 
@@ -62,13 +62,23 @@ The colour scheme for this project was a simple decision to make. The Muse colou
 
 #### Typography
 
-Typography information here
+The typography for this project, in many ways is similar to the colour scheme. The typeface used, IBM Plex Sans, is the same one utilised by Muse on their own website, so it very much fits into the theme of a Muse fanpage.
 
 ## Features
 
-### Existing Features
+### Common Features
 
-Existing features information here
+- Navigation Bar
+
+  - The design of the navigation bar is kept consistent across all of the pages of the website, following convention with a brand text on the left hand side and navigation links on the right.
+  - The navigation bar includes links to Home, Discography, Gigs, The Gallery and Contact Me, in addition to having a link on the brand text, which follows convention as it links back to the homepage, a common shortcut that users are typically used to.
+  - The navigation bar is fully responsive with smaller screens having a collapsed menu with a navigation toggler button and larger screens having a fully expended navigation bar.
+  - The current page is shown as active in the navigation bar by appearing in solid white, with the other page links appearing in a grey colour, visibly indicating that they are inactive.
+
+- Footer
+
+  - The design of the footer is kept consistent across all pages of the website, following convention by having logo links to social media platforms.
+  - The logo links provide an easy way of learning more information about Muse, allowing users to easily see what Muse have been posting.
 
 ### Features Left to Implement
 
