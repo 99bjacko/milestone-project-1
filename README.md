@@ -75,10 +75,16 @@ The typography for this project, in many ways is similar to the colour scheme. T
   - The navigation bar is fully responsive with smaller screens having a collapsed menu with a navigation toggler button and larger screens having a fully expended navigation bar.
   - The current page is shown as active in the navigation bar by appearing in solid white, with the other page links appearing in a grey colour, visibly indicating that they are inactive.
 
+![Navigation Bar Expanded](./docs/readme/navigation_expanded.png)
+
+![Navigation Bar Collapsed](./docs/readme/navigation_collapsed.png)
+
 - Footer
 
   - The design of the footer is kept consistent across all pages of the website, following convention by having logo links to social media platforms.
   - The logo links provide an easy way of learning more information about Muse, allowing users to easily see what Muse have been posting.
+
+![Footer Image](./docs/readme/footer.png)
 
 ### Features Left to Implement
 
