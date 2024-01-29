@@ -1,5 +1,5 @@
 body {
-    font-family: 'IBM Plex Sans', sans-serif;
+    font-family: "IBM Plex Sans", sans-serif;
     background-color: #000;
     color: #fff;
 }
@@ -64,47 +64,52 @@ footer {
     font-size: 175%;
     margin: 1%;
     padding: 5%;
-    padding-top: 15%
+    padding-top: 15%;
 }
 
-.discography-heading {
+.general-page-heading {
     padding-top: 75px;
     padding-bottom: 125px;
 }
 
-.discography-content {
+.general-content {
     text-align: center;
 }
 
-.discography-content h2 {
+.general-content h2 {
     padding-top: 75px;
+}
+
+.figure-caption a {
+    color: inherit;
+    text-decoration: none;
 }
 
 
 @media (min-width: 992px) {
-
     .callout-container {
         height: 75vh;
     }
 
     .navbar-brand {
-        font-size: 150%
+        font-size: 150%;
     }
 
     .navbar .navbar-nav a {
         font-size: 125%;
     }
 
-    .discography-content {
+    .general-content {
         text-align: left;
     }
 
-    .discography-content h2 {
+    .general-content h2,
+    h3 {
         padding-left: 75px;
         padding-top: 0px;
     }
 
-    .discography-content p {
+    .general-content p {
         padding-left: 75px;
     }
 
