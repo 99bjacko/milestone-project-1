@@ -86,9 +86,27 @@ The typography for this project, in many ways is similar to the colour scheme. T
 
 ![Footer Image](./docs/readme/footer.png)
 
+- Page Heading
+
+  - All pages besides the home page feature a simple page heading with appropriate vertical space between navigation bar and main page content
+  - The headings follow the consistent style of the website and do not add unnecessary clutter.
+
+![Page Header](./docs/readme/page_heading.png)
+
 ### Features Left to Implement
 
-Any features not yet implemented here if applicable
+Although I am mostly happy with my project, I believe that it can be improved in a few ways by implementing some additional features.
+
+- Spotify Integration
+
+  - The website could be made more engaging by encorporating some features linked to Spotify. Examples of this could be using embedded playlists for the albums on the Discography page or the album art shown on this page could link to the album on Spotify.
+  - Another feature could be having the setlist of each concert on the gigs page as a Spotify playlist instead of just listing out the songs.
+  - These features would allow for a more interactive experience, whilst also making it easier for new fans to listen to the band to see if they like the music.
+
+- Last.fm Integration
+
+  - Last.fm is a handy website where you can link streaming services such as Spotify and it tracks all of the songs that you listen to.
+  - A new page on the website could be implemented, highlighting my favourite songs from the band, with screenshots or links showing my most listened to Muse songs since getting back into the band.
 
 ## Technologies Used
 
