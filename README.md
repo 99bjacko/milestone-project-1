@@ -93,7 +93,7 @@ The typography for this project, in many ways is similar to the colour scheme. T
 
 ![Page Header](./docs/readme/page_heading.png)
 
-### Features Left to Implement
+### Features to Implement
 
 Although I am mostly happy with my project, I believe that it can be improved in a few ways by implementing some additional features.
 
@@ -134,10 +134,6 @@ Although I am mostly happy with my project, I believe that it can be improved in
 ## Testing
 
 Testing details here
-
-## Bugs
-
-Any current and resolved bugs here
 
 ## Deployment
 
@@ -180,6 +176,7 @@ $ git clone https://github.com/99bjacko/milestone-project-1.git
 ### Code
 
 - [Bootstrap 4.1.3](https://getbootstrap.com/docs/4.1/getting-started/download/) was used throughout the project, utilising the built in Grid System to ensure that the site is responsive across multiple devices.
+- Code from [W3Schools](https://www.w3schools.com/html/html_favicon.asp) was used to add a favicon to the website.
 
 ### Content
 
