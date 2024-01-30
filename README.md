@@ -149,6 +149,10 @@ I changed this for each page and now every page passes the validation checks as 
 - [Contact Me Page HTML](./docs/readme/contact_html_validation.png) - Passed
 - [style.css CSS](./docs/readme/css_validation.png) - Passed
 
+### Lighthouse Testing
+
+For this project, I tested the performance, accessibility, best practices and SEO of the website using Lighhouse, one of the Chrome Developer Tools.
+
 ## Deployment
 
 The site was deployed to GitHub pages. The steps to deploy are as follows:
