@@ -74,6 +74,8 @@ The typography for this project, in many ways is similar to the colour scheme. T
   - The navigation bar includes links to Home, Discography, Gigs, The Gallery and Contact Me, in addition to having a link on the brand text, which follows convention as it links back to the homepage, a common shortcut that users are typically used to.
   - The navigation bar is fully responsive with smaller screens having a collapsed menu with a navigation toggler button and larger screens having a fully expended navigation bar.
   - The current page is shown as active in the navigation bar by appearing in solid white, with the other page links appearing in a grey colour, visibly indicating that they are inactive.
+  - The navigation satisfies the first user story as it is easy and intuitive.
+  - The navigation satisfies the second user story as it is responsive on a number of different devices.
 
 ![Navigation Bar Expanded](./docs/readme/navigation_expanded.png)
 
@@ -83,6 +85,8 @@ The typography for this project, in many ways is similar to the colour scheme. T
 
   - The design of the footer is kept consistent across all pages of the website, following convention by having logo links to social media platforms.
   - The logo links provide an easy way of learning more information about Muse, allowing users to easily see what Muse have been posting.
+  - The footer satisfies the third user story as it allows users to easily find more information about the band.
+  - The footer satisfies the sixth user story as it features links to the band's social media pages.
 
 ![Footer Image](./docs/readme/footer.png)
 
@@ -92,6 +96,77 @@ The typography for this project, in many ways is similar to the colour scheme. T
   - The headings follow the consistent style of the website and do not add unnecessary clutter.
 
 ![Page Header](./docs/readme/page_heading.png)
+
+### Home Page
+
+![Home Page Hero Image](./docs/readme/screenshot_home_hero_image.png)
+![Home Page Text Content](./docs/readme/screenshot_home_text_content.png)
+
+The home page features a striking hero image which contrasts beautifully with the dark theme of the website. The hero image captures many great things about Muse, the lighting, stage design, props and a venue packed full of people.
+
+The home page also features two text sections, the first giving a brief description of who the band are and the second giving a brief history of the band, mentioning some of their accomplishments. 
+
+The home page targets the third and fourth user stories as the information is readily available and relevant to the website.
+
+
+### Discography Page
+
+![Discography Page Desktop](./docs/readme/screenshot_discography_desktop.png)
+![Discography Page Mobile](./docs/readme/screenshot_discography_mobile.png)
+
+The discography page features the band's discography including an album cover, album title, description and track list for each studio album the band has released in chronological order.
+
+On desktop, the content is split into two columns, with the album art on the left and the accompanying text on the right.
+
+On mobile and tablet devices, the content is in one column, with the album art appearing before or above the accompanying text.
+
+This page satisfies the second user story as it is responsive on a number of different devices, changing the layout to make better use of the screen real estate available.
+
+This page also satisfies the fifth user story as it shows off the band's work and accomplishments.
+
+### Gigs Page
+
+![Gigs Page Desktop](./docs/readme/screenshot_gigs_desktop.png)
+![Gigs Page Mobile](./docs/readme/screenshot_gigs_mobile.png)
+
+The gigs page features all the Muse concerts that I have been to so far.
+
+The page features an image from the event, the venue, the date of the concert, a brief description and the setlist for each concert.
+
+Like the discography page, the content is split into two columns on desktop, with the image on the left and the accompanying text on the right.
+
+Also, the content is in one column on mobile and tablet devices, with the image appearing before or above the accompanying text.
+
+This page satisfies the second user story as it is responsive on a number of different devices, changing the layout to make better use of the screen real estate available.
+
+This page also satisfies the seventh user story as it gives some insight about why I like the band.
+
+### Gallery Page
+
+![Gallery Page Top Image](./docs/readme/screenshot_gallery_top_image.png)
+![Gallery Page Desktop](./docs/readme/screenshot_gallery_desktop.png)
+![Gallery Page Tablet](./docs/readme/screenshot_gallery_tablet.png)
+![Gallery Page Mobile](./docs/readme/screenshot_gallery_mobile.png)
+
+The gallery page features photos that I have taken at the Muse concerts I have been to.
+
+The page features a main top image which is followed by the rest of the images.
+
+On desktop, the images are split into 3 columns. On tablet, the images are split into 2 columns. On mobile, the images are all in one column.
+
+This page satisfies the second user story as it is responsive on a number of different devices, changing the layout to make better use of the screen real estate available.
+
+This page also satisfies the seventh user story as it gives some insight about why I like the band.
+
+### Contact Page
+
+![Contact Page](./docs/readme/screenshot_contact.png)
+
+The contact page features a form for any visiting users to get in touch.
+
+This page satisfies the final user story.
+
+All opportunites derived from user stories have been achieved as detailed above.
 
 ### Features to Implement
 
