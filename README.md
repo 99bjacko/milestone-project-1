@@ -288,6 +288,40 @@ The performance issues experienced with the contact page on desktop seems to not
 
 Performance aside, the only other imperfections were the legibility of some darker images against the black background of the website, so overall I am decently happy with how the testing went, but there is definite room for improvement in future versions.
 
+### Manual Testing
+
+The following tests were carried out on all pages and using a Windows desktop using Firefox and Chrome and an iPhone 15 Pro Max using Safari.
+
+| Feature | Expected Outcome | Testing Performed | Pass/Fail |
+| ------- | ---------------- | ----------------- | --------- |
+| Brand Text Link | Link directs user back to home page | Clicked brand text | Pass |
+| Home Page Link | Link directs user to home page | Clicked home link | Pass |
+| Discography Page Link | Link directs user to discography page | Clicked discography link | Pass |
+| Gigs Page Link | Link directs user to gigs page | Clicked gigs link | Pass |
+| The Gallery Page Link | Link directs user to gallery page | Clicked the gallery link | Pass |
+| Contact Me Page Link | Link directs user to contact page | Clicked contact me link | Pass |
+| Facebook Link | Link directs user to Muse's Facebook page | Clicked Facebook icon | Pass |
+| Twitter / X Link | Link directs user to Muse's Twitter / X page | Clicked Twitter / X icon | Pass |
+| Instagram Link | Link directs user to Muse's Instagram page | Clicked Instagram icon | Pass |
+| YouTube Link | Link directs user to Muse's YouTube page | Clicked YouTube icon | Pass |
+| UX - Text | All text is visible, appropriately positioned and is legible | Visually check text content | Pass |
+| UX - Navigation | Navigation section should be identical on all pages | Visually check navigation section | Pass |
+| UX - Footer | Footer section should be identical on all pages | Visually check footer section | Pass |
+
+The following tests were carried out on the contact page using a Windows desktop using Firefox and Chrome and an iPhone 15 Pro Max using Safari.
+
+| Feature | Expected Outcome | Testing Performed | Pass/Fail |
+| ------- | ---------------- | ----------------- | --------- |
+| Form - input check | User is prompted to fill out the name field in the form and the form is not submitted | Attempt to submit an empty form | Pass |
+| Form - Name input check | User is prompted to fill out the name field in the form and the form is not submitted | Attempt to submit a form without entering a name or email address but with a message | Pass |
+| Form - Name input check | User is prompted to fill out the name field in the form and the form is not submitted | Attempt to submit a form without entering a name or message but with an email address | Pass |
+| Form - Name input check | User is prompted to fill out the name field in the form and the form is not submitted | Attempt to submit a form without entering a name but with other fields filled appropriately | Pass |
+| Form - Email input check | User is prompted to fill out the email field in the form and the form is not submitted | Attempt to submit a form without entering an email address or message but with a name | Pass |
+| Form - Email input check | User is prompted to fill out the email field in the form and the form is not submitted | Attempt to submit a form without entering an email address but with other fields filled out appropriately | Pass |
+| Form - Email input check | User is prompted to fill out the email field in the form and the form is not submitted | Attempt to submit a form without entering a valid email address (i.e. an email that doesn't include @) with other fields filled out appropriately | Pass |
+| Form - Message input check | User is prompted to fill out the message field in the form and the form is not submitted | Attempt to submit a form without entering a message but with other fields filled out appropriately | Pass |
+| Form - Submission | Form is successfully submitted. Code Institute Form Dump page appears showing values entered in contact form | Submit a form with valid details | Pass |
+
 ## Deployment
 
 The site was deployed to GitHub pages. The steps to deploy are as follows:
