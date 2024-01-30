@@ -133,7 +133,21 @@ Although I am mostly happy with my project, I believe that it can be improved in
 
 ## Testing
 
-Testing details here
+The W3C Markup Validation Service and W3C CSS Validator Service were used to validate every page of the project to ensure there were no syntax errors in the project.
+
+When I initially checked my project, the validation service highlighted a few warnings.
+
+- Ending link and hr tags with '/>'.
+- Sections with no headings.
+
+I changed this for each page and now every page passes the validation checks as seen here:
+
+- [Index Page HTML](./docs/readme/index_html_validation.png) - Passed
+- [Discography Page HTML](./docs/readme/discography_html_validation.png) - Passed
+- [Gigs Page HTML](./docs/readme/gigs_html_validation.png) - Passed
+- [The Gallery Page HTML](./docs/readme/gallery_html_validation.png) - Passed
+- [Contact Me Page HTML](./docs/readme/contact_html_validation.png) - Passed
+- [style.css CSS](./docs/readme/css_validation.png) - Passed
 
 ## Deployment
 
