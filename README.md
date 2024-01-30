@@ -177,6 +177,26 @@ $ git clone https://github.com/99bjacko/milestone-project-1.git
 
 ## Credits
 
+### Code
+
+- [Bootstrap 4.1.3](https://getbootstrap.com/docs/4.1/getting-started/download/) was used throughout the project, utilising the built in Grid System to ensure that the site is responsive across multiple devices.
+
+### Content
+
+- All text content was written by the developer.
+- [Official Charts](https://www.officialcharts.com/artist/4712/muse/) was used for information about how singles and albums performed, featured in the discography page.
+- [Wikipedia](https://en.wikipedia.org/wiki/Muse_(band)) was used for information about the band and their work, featured in the discography page.
+
+### Media
+
+- Hero image from [Ayrton Digital Lighting](https://www.ayrton.eu/live/ayrton-perseo-and-domino-lt-fixtures-shine-on-muses-will-of-the-people-north-american-tour/) by Steve Jennings.
+- All album covers are property of [Muse](https://www.muse.mu/).
+- O2 Arena image from [Flickr](https://www.flickr.com/photos/raph_ph/48735640158/in/album-72157710848159803/) by Raph_PH.
+- O2 Arena image from [MuseWiki](https://musewiki.org/File:Muse_O21_6.jpg#file).
+- All other images were created by the developer.
+
+### Acknowledgements
+
 - Code Institute for all course material
 - Code Institute Slack community for assistance and guidance on the project
 - My mentor, Rahul, for providing feedback and encouragement throughout the process.
