@@ -5,7 +5,7 @@
 ## Live Site
 
 The live site for this project can be found at this link:
-<https://99bjacko.github.io/milestone-project-1/discography.html>
+<https://99bjacko.github.io/milestone-project-1/index.html>
 
 ## GitHub Repository
 
@@ -188,6 +188,7 @@ $ git clone https://github.com/99bjacko/milestone-project-1.git
 
 - Hero image from [Ayrton Digital Lighting](https://www.ayrton.eu/live/ayrton-perseo-and-domino-lt-fixtures-shine-on-muses-will-of-the-people-north-american-tour/) by Steve Jennings.
 - All album covers are property of [Muse](https://www.muse.mu/).
+- Favicon image from [MuseWiki](https://musewiki.org/MuseWiki).
 - O2 Arena image from [Flickr](https://www.flickr.com/photos/raph_ph/48735640158/in/album-72157710848159803/) by Raph_PH.
 - O2 Arena image from [MuseWiki](https://musewiki.org/File:Muse_O21_6.jpg#file).
 - All other images were created by the developer.
