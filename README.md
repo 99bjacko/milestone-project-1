@@ -153,6 +153,66 @@ I changed this for each page and now every page passes the validation checks as 
 
 For this project, I tested the performance, accessibility, best practices and SEO of the website using Lighhouse, one of the Chrome Developer Tools.
 
+When initially testing using Lighthouse, the home page had an SEO score of 89, which led to a description and keywords being added to the head of each html file.
+
+The initial score for accessibility on the home page was 91, which led to adding aria labels to the social media links in the footer, to improve accessibility.
+
+#### Desktop Testing
+
+##### index.html Desktop Page
+
+![Lighthouse Test index.html Desktop](./docs/readme/lighthouse_home_desktop.png)
+
+##### discography.html Desktop Page
+
+![Lighthouse Test discography.html Desktop](./docs/readme/lighthouse_discography_desktop.png)
+
+##### gigs.html Desktop Page
+
+![Lighthouse Test gigs.html Desktop](./docs/readme/lighthouse_gigs_desktop.png)
+
+##### gallery.html Desktop Page
+
+![Lighthouse Test gallery.html Desktop](./docs/readme/lighthouse_gallery_desktop.png)
+
+##### contact.html Desktop Page
+
+![Lighthouse Test contact.html Desktop](./docs/readme/lighthouse_contact_desktop.png)
+
+In general I am happy with the scores for the desktop version of this website. There are some improvements to be made, most notably the performance of the contact page, which is caused by some CLS issues.
+
+The only dips in the other scores were in accessibility, where some pictures seem a little too dark against the black background, meaning not enough contrast is created.
+
+These are things that can easily be looked at when looking to further improve the website.
+
+#### Mobile Testing
+
+##### index.html Mobile Page
+
+![Lighthouse Test index.html Mobile](./docs/readme/lighthouse_home_mobile.png)
+
+##### discography.html Mobile Page
+
+![Lighthouse Test discography.html Mobile](./docs/readme/lighthouse_discography_mobile.png)
+
+##### gigs.html Mobile Page
+
+![Lighthouse Test gigs.html Mobile](./docs/readme/lighthouse_gigs_mobile.png)
+
+##### gallery.html Mobile Page
+
+![Lighthouse Test gallery.html Mobile](./docs/readme/lighthouse_gallery_mobile.png)
+
+##### contact.html Mobile Page
+
+![Lighthouse Test contact.html Mobile](./docs/readme/lighthouse_contact_mobile.png)
+
+When testing for mobile, performance issues are more apparent in comparison with the desktop version of the site. The pages with larger images seemed to be the most affected in this case, so looking at future optimisation would help the score a lot.
+
+The performance issues experienced with the contact page on desktop seems to not affect the mobile version of the site, showing the best score out of any page on mobile. 
+
+Performance aside, the only other imperfections were the legibility of some darker images against the black background of the website, so overall I am decently happy with how the testing went, but there is definite room for improvement in future versions.
+
 ## Deployment
 
 The site was deployed to GitHub pages. The steps to deploy are as follows:
