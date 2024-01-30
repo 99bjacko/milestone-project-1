@@ -110,7 +110,26 @@ Although I am mostly happy with my project, I believe that it can be improved in
 
 ## Technologies Used
 
-Technologies used here
+### Languages Used
+
+- [HTML5](https://en.wikipedia.org/wiki/HTML5)
+- [CSS3](https://en.wikipedia.org/wiki/CSS)
+- [Javascript (via Bootstrap)](https://en.wikipedia.org/wiki/JavaScript)
+
+### Frameworks, Libraries, Programmes and Tools Used
+
+- [Codeanywhere](https://app.codeanywhere.com/): used to create the site (IDE).
+- [Bootstrap 4.1.3:](https://getbootstrap.com/docs/4.1/getting-started/download/) was used to aid with responsive design and styling of the website.
+- [Google Fonts:](https://fonts.google.com/) used to import the 'IBM Plex Sans' font into the style.css file which is used across the entire website.
+- [Google Developer Tools:](https://developer.chrome.com/docs/devtools/) used for troubleshooting and testing.
+- [Font Awesome:](https://fontawesome.com/) used to add icons for the social media links in the footer, used across all pages on the website.
+- [jQuery:](https://jquery.com/) used to enable Bootstrap JavaScript.
+- [Popper:](https://popper.js.org/docs/v2/) used to enable Bootstrap JavaScript.
+- [Git:](https://git-scm.com/) used for version control by utilising the Codeanywhere terminal to commit to Git and push to GitHub.
+- [GitHub:](https://github.com/) used to save and store the files for the project.
+- [Microsoft Paint 3D:](https://en.wikipedia.org/wiki/Paint_3D) used for resizing images for the website.
+- [Balsamiq:](https://balsamiq.com/) used to create the wireframes during the design process.
+- [Am I Responsive?:](https://ui.dev/amiresponsive) used to create an image depicting what the website looks like on different devices.
 
 ## Testing
 
